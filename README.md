@@ -1,3 +1,12 @@
+
+> ⚠️ **Status: Archived / Deprecated**
+>
+> This repository is no longer maintained.
+>  
+> - Reason: learning exercise
+> - Last maintained: 2023
+> - Use at your own risk
+
 # Data Structures in JavaScript
 
 This project contains implementations of several common data structures in JavaScript:
